@@ -4,6 +4,7 @@
 .DS_Store
 # IDEs
 .idea/
+.code-workspace
 
 # Hugo
 resources/
